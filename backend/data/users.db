@@ -1,0 +1,3 @@
+{"name":"kishore","email":"sekarsk105@gmail.com","password":"$2b$10$KZfPHRbEYAXVV3MCbvIu/uVcZS0.YOb9ZcXMt6A9gNjpXfFCF4nkq","role":"Accountant","createdAt":{"$$date":1773162546511},"_id":"7ua00uGnYmFkN39T"}
+{"name":"kishoreadmin","email":"admin@gmail.com","password":"$2b$10$7L1DvIA9rmVvG7kwO6uF3eie7jYJRn3PwmYw9rvVBZUOnWugYg5au","role":"Admin","createdAt":{"$$date":1773162612193},"_id":"ndGGPX9UW9MkofqO"}
+{"name":"sanjay","email":"sanjay@gmail.com","password":"$2b$10$2yudYg3UBvFE56wTrwd9leBnnPgxIdHntRAIARhblGbSe9hIfesZi","role":"Admin","createdAt":{"$$date":1773163425823},"_id":"LjPnlK6K99du08jF"}
