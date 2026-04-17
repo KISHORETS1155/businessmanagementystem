@@ -88,3 +88,17 @@ Backend API: http://localhost:5000/api
 👨‍💻 Author
 
 Kishore T S
+
+
+<img width="2885" height="1479" alt="_settings" src="https://github.com/user-attachments/assets/65ab9b3a-dc78-4d3d-970f-6ef9d4384e01" />
+<img width="2821" height="1111" alt="_register" src="https://github.com/user-attachments/assets/36de9156-7e49-40ea-bf45-891f2c5edd3b" />
+<img width="2885" height="1479" alt="_payments" src="https://github.com/user-attachments/assets/01f9c887-52b1-4cd0-ad52-0dcd3897fa61" />
+<img width="2453" height="681" alt="_login" src="https://github.com/user-attachments/assets/41af2111-5a1f-4cfd-9109-2b98efb0a872" />
+<img width="2885" height="1479" alt="_invoices_create" src="https://github.com/user-attachments/assets/3e4e255c-0f9c-4641-9bb0-b830bdc7d148" />
+<img width="2885" height="1479" alt="_invoices" src="https://github.com/user-attachments/assets/5a9675a9-da82-45fc-ba2b-928457c70258" />
+<img width="2885" height="1479" alt="_dashboard" src="https://github.com/user-attachments/assets/3d33e8e2-e32d-46d4-af1c-ab21e178893c" />
+<img width="2885" height="1479" alt="_customers_create" src="https://github.com/user-attachments/assets/bbca0021-4397-4cfc-a86a-e18f666addb0" />
+<img width="2885" height="1479" alt="_customers" src="https://github.com/user-attachments/assets/b79e10be-6ea1-4aa2-a8e7-764730152592" />
+<img width="2885" height="1479" alt="_analytics" src="https://github.com/user-attachments/assets/2d374fe2-2f14-4169-9c92-b3bb6349cd0e" />
+<img width="2514" height="959" alt="_" src="https://github.com/user-attachments/assets/73bf13ef-14b0-443d-ba5c-a1a375a72ef0" />
+
