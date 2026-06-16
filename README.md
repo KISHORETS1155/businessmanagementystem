@@ -1,11 +1,12 @@
 💼 Business Invoice Management System
-📌 Description
+
+📌 Description:
 
 The Business Invoice Management System is a full-stack, SaaS-style web application designed to automate and simplify the complete invoicing workflow for small and medium businesses.
 
 It replaces traditional methods like spreadsheets and paper billing with a centralized, secure, and efficient system for managing invoices, customers, payments, and financial analytics.
 
-🎯 Problem Statement
+🎯 Problem Statement:
 
 Many businesses face issues like:
 
@@ -16,7 +17,7 @@ Many businesses face issues like:
 
 This system solves these problems by providing a single platform for billing and analytics.
 
-🚀 Features
+🚀 Features:
 🔐 JWT-based Authentication & Role-Based Access (Admin, Accountant)
 👥 Customer Management (CRUD operations)
 🧾 Invoice Creation with dynamic line items
